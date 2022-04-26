@@ -1,6 +1,6 @@
 # Build A Cafe Menu
 
-The aim is to design a menu webpage for a cafe webpage using CSS to set the color, font size and other aspects of HTML elements.
+The aim is to design a menu page for a cafe webpage using CSS to set the color, font size and other aspects of HTML elements.
 
 Technologies include HTML and CSS.
 
